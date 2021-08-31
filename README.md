@@ -14,6 +14,7 @@ I am an aspiring machine learning/ computer vision engineer.
 <br>
 <br>
 ## Expertise
+
 <img align="left" alt="PYTHON" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="MATLAB" src="https://img.shields.io/badge/machinelearning%20-%2320232a.svg?&style=for-the-badge&logo=machinelearning&logoColor=%2361DAFB" />
 <img align="left" alt="Machine Learning" src="https://img.shields.io/badge/matlab%20-%2320232a.svg?&style=for-the-badge&logo=matlab&logoColor=%2361DAFB" />
