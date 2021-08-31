@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RoseJaisil/RoseJaisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### Hello World 👋
 I am an aspiring machine learning/ computer vision engineer.
 
 - 🔭 Working on multiple frontend and backend projects related to medical image analysis and clinical NLP.
