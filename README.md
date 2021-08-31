@@ -11,13 +11,14 @@ I am an aspiring machine learning/ computer vision engineer.
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16799939/jaisil-rose-dennison)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white" />](https://dennisonjaisil.wixsite.com/profile)
 
-<!-- <br> -->
-<!-- <br> -->
+<br>
+<br>
+<br>
 ## Expertise
 
 <img align="left" alt="MATLAB" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="MACHINE LEARNING" src="https://img.shields.io/badge/matlab%20-%2320232a.svg?&style=for-the-badge&logo=matlab&logoColor=%2361DAFB" />
 <img align="left" alt="PYHTON" src="https://img.shields.io/badge/cpp%20-%2320232a.svg?&style=for-the-badge&logo=cpp&logoColor=%2361DAFB" />
 
-<br>
-<br>
+<!-- <br>
+<br> -->
