@@ -14,9 +14,10 @@ I am an aspiring machine learning/ computer vision engineer.
 <br>
 <br>
 ## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
-<img align="left" alt="machinelearning" src="https://img.shields.io/badge/machine%20learning%20-%2343853D.svg?&style=for-the-badge&logo=machinelearning&logoColor=white" />
-<img align="left" alt="matlab" src="https://img.shields.io/badge/MATLAB-%23232F3E?logo=matlab&logoColor=white&style=for-the-badge" />
-<img align="left" alt="CPP" src="https://img.shields.io/badge/C++-%23232F3E?logo=matlab&logoColor=%2361DAFB%22" />
+<img align="left" alt="PYTHON" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
+<img align="left" alt="MATLAB" src="https://img.shields.io/badge/machinelearning%20-%2320232a.svg?&style=for-the-badge&logo=machinelearning&logoColor=%2361DAFB" />
+<img align="left" alt="Machine Learning" src="https://img.shields.io/badge/matlab%20-%2320232a.svg?&style=for-the-badge&logo=matlab&logoColor=%2361DAFB" />
+<img align="left" alt="CPP" src="https://img.shields.io/badge/cpp%20-%2320232a.svg?&style=for-the-badge&logo=cpp&logoColor=%2361DAFB" />
+
 <br>
 <br>
