@@ -2,7 +2,7 @@
 
 I am an aspiring machine learning/ computer vision engineer.
 
-- 🔭 Working on multiple frontend and backend projects related to medical image analysis and clinical NLP.
+- 🔭 Working on multiple projects related to medical image analysis and clinical NLP.
 - 🌱 Learning explainable AI and cloud for deployment.
 <!-- <br> -->
 ## Connect with me
